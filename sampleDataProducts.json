@@ -1,0 +1,44 @@
+[
+{
+    "name":"Mango",
+    "desc":"It is an edible stone fruit of the tropical tree Mangifera indica.",
+    "banner": "LinkToImages",
+    "type":"fruits",
+    "price":111
+},
+{
+    "name":"Apples",
+    "desc":"Juicy apple fruit, which is eaten fresh and baked, serves as a raw material in cooking and for making drinks",
+    "banner": "LinkToImages",
+    "type":"fruits",
+    "price":222
+},
+{
+    "name":"Banana",
+    "desc":"An elongated edible fruit, botanically a berry, produced by several species of large herbaceous flowering plants of the genus Musa",
+    "banner": "LinkToImages",
+    "type":"fruits",
+    "price":333
+},
+{
+    "name":"Blueberry",
+    "desc":"Sweet wild berry, which has not only a pleasant taste, but also useful properties.",
+    "banner": "LinkToImages",
+    "type":"berry",
+    "price":444
+},
+{
+    "name":"Raspberry",
+    "desc":"A product capable of beneficially influencing the condition of the skin both from the inside and outside.",
+    "banner": "LinkToImages",
+    "type":"berry",
+    "price":555
+},
+{
+    "name":"Cabbage",
+    "desc":"An agricultural crop of the Cabbage family, it is widely used in the preparation of salads and as part of dishes.",
+    "banner": "LinkToImages",
+    "type":"vegetable",
+    "price":666
+}
+]
