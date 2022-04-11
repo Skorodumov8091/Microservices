@@ -1,10 +1,11 @@
 # Microservices
 **Запуск:** docker-compose up    
+**sampleDataProducts.json** - пример данных products    
+**sampleDataUser.json** - пример данных user    
 
-## API
+**Postman workspaces:** https://www.postman.com/navigation-operator-53732843/workspace/microservices-lab/collection/20448707-91f126a4-82e3-4dc8-94fb-a5b9a3f25e8b?action=share&creator=20448707    
+
 ![Alt-текст](https://sun9-57.userapi.com/impf/prfNrxevn3D5oGXa8JYQa9prdGApx2r7go27mg/C3Kmlh5JFXA.jpg?size=629x505&quality=96&sign=b1207802e567d49e7c3dbf18d736bc2b&type=album "Microservices API")    
-
-**Postman workspaces:** https://www.postman.com/navigation-operator-53732843/workspace/microservices-lab/collection/20448707-91f126a4-82e3-4dc8-94fb-a5b9a3f25e8b?action=share&creator=20448707
 
 ### Products_Create
 Запрос:
